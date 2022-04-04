@@ -1,0 +1,14 @@
+Routes
+
+/By BEAUTY BAY
+/New In
+/Explore
+/Offers
+/Brands
+/Makeup
+/Skincare
+/Haircare
+/Accessories
+/Bath & Body
+/Wellness
+/Makeup Brushes
